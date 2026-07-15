@@ -7,6 +7,7 @@ The project provides a complete web-based dashboard for managing OpenVPN users, 
 Unlike traditional OpenVPN deployments that require manual certificate generation and command-line management, OpenVPN X-UI automates the entire VPN lifecycle through a clean and intuitive interface.
 
 ---
+<img width="1778" height="885" alt="OpenVPN X-UI" src="https://github.com/miladmim/OpenVPN-X-UI/blob/main/646546.png?raw=true" />
 
 ## Features
 
